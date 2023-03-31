@@ -1,4 +1,4 @@
-# GDSC-app
+# GDSC-Solution challenge app
 
 ## Easy Invoice
 
